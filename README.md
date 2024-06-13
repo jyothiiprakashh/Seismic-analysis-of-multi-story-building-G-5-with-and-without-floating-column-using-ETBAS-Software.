@@ -1,8 +1,8 @@
 # Seismic-analysis-of-multi-story-building-G-5-with-and-without-floating-column-using-ETBAS-Software.
 In this project we took 3 models of floating column, those are center floating column, edge floating column and corner floating column.
 With those models we compared the analysis result of a building with normal column and a building with edge and centered floating column which was given by the ETABS software. 
-We compared the buildings with static and dynamic loads. instead of static we took load combinations and whereas when coming to dynamic loading we mainly focussed on earthquake load
-and the results of each and everything was shown in terms of tables and graphs to understand easily.
+We compared the buildings with static and dynamic loads. instead of static loads we took load combinations and whereas when coming to dynamic loading we mainly focussed on earthquake load,
+with the response spectrum method we analysed the building models and the results of each and everything was shown in terms of tables and graphs to understand easily.
 
 Coming to the conclusion we stated that:
 
