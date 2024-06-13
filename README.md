@@ -8,7 +8,9 @@ Coming to the conclusion we stated that:
 
 -> From the above models, Interior placement of a floating column at the 4th story reduces maximum story displacement by 1.96% compared to an edge floating 
 column placed from the 1st story to top of the building.
+
 -> Compared to a building without floating columns, story shear decreases by up to 3.26% in a building with an edge floating column, while it increases by 0.01% in 
 a building with an internal floating column.
+
 -> Floating columns are primarily designed to carry vertical loads, such as gravity (dead and live loads), but they are not well-suited to resist lateral forces induced 
 by wind or earthquakes. The floating column method will be adopted unless the building has specific space requirements.
